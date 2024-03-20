@@ -276,7 +276,7 @@ color:#F89F9F;
 	background: #FFDF00;
 }
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-	color: #fff;
+	color: #777;
 }
 .navbar-inverse .navbar-toggle:hover .icon-bar {
 	background: #fff;

@@ -1,7 +1,3 @@
-/*
-Author URI: http://webthemez.com/
-Email: webthemez@gmail.com
-*/
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,600);
 @import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
@@ -119,11 +115,11 @@ background: transparent;
 }
 .btn:hover {
 	 color:#444 !important;
-	background:#E0C400;
+	background:##44b3ff;
 }
  a:hover {
 	
-	 color:#E0C400 !important;
+	 color:#44b3ff !important;
  }
 .btn{
 display: inline-block;

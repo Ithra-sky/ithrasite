@@ -261,6 +261,7 @@ color:#F89F9F;
 	-o-transition: all 0.3s linear;
 	background:#fff;
 	top:0px;
+	border-bottom: 1px solid #44b3ff;
 }
 .navbar-inverse {
 	background: transparent;
